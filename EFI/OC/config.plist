@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
-        <key>#DEVICE</key>
-        <string>DeskMini-310</string>
-        <key>#VERSION</key>
-        <string>0.8.8</string>
+        <key>#About</key>
+        <string>B站UP：乌龙蜜桃来一打</string>
+        <key>#Website</key>
+        <string>https://github.com/hackintosh-efi/ASRock-DeskMini-310</string>
         <key>ACPI</key>
         <dict>
             <key>Add</key>
