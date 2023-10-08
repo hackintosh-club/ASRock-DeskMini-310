@@ -23,6 +23,8 @@
 
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
 
+![image](ScreenShot/about.jpg)
+
 
 ### Contact Us 
 

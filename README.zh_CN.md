@@ -23,6 +23,8 @@
 
  - 安装完成后请使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成自己的三码
 
+![image](ScreenShot/about.jpg)
+
 ### 联系我们
 
 - QQ群: 23304408
