@@ -95,6 +95,8 @@
                 <true/>
                 <key>EnableWriteUnprotector</key>
                 <false/>
+                <key>FixupAppleEfiImages</key>
+                <false/>
                 <key>ForceBooterSignature</key>
                 <false/>
                 <key>ForceExitBootServices</key>
@@ -267,7 +269,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.6</string>
+                    <string>V1.8.8</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -681,13 +683,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C07939501CDKXPG8C</string>
+                <string>C07950270J9KXPGJA</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>91x5vM2r</data>
+                <data>H2M3UfNl</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -695,9 +697,9 @@
                 <key>SystemProductName</key>
                 <string>Macmini8,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C07ZG6Z3JYVX</string>
+                <string>C07ZTLY6JYVX</string>
                 <key>SystemUUID</key>
-                <string>C0ADB9DE-5734-407B-99B9-C746380984B5</string>
+                <string>90C8FF2A-5754-45B0-90A6-2DB35C699DC2</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -823,7 +825,7 @@
                 </dict>
                 <dict>
                     <key>Arguments</key>
-                    <string></string>
+                    <string>--preserve-boot</string>
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
