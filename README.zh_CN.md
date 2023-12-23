@@ -53,6 +53,7 @@ Boot
 ### 注意事项
 
  - 安装完成后请使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成自己的三码
+ - 请使用电源键进行睡眠唤醒
 
 ### 系统截图
 
