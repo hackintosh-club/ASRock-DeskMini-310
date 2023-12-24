@@ -36,6 +36,8 @@ Advanced
       |-- CPU C states Support: Enabled
       |-- CFG Lock: Disabled
   |-- Chipset Configuration
+      |-- Above 4G Decoding: Enabled
+      |-- VT-D: Enabled
       |-- Onboard HD Audio: Enabled
   |-- Super IO Configuration
       |-- Serial Port: Disabled
@@ -55,10 +57,22 @@ Boot
 
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
  - Use the Power button to wake up from sleep
+ - Automatic switching is not supported after inserting 3.5mm headphones. Please manually select the headphone device in the sound settings
+ - Connecting 3.5mm earphones and independent microphones simultaneously can cause a burst sound after waking up from sleep. Please unplug the device and reinsert it
 
 ### ScreenShot
 
 ![image](ScreenShot/Sonoma.jpg)
+
+
+
+### Special Thanks
+
+PCBETA ：[Coldsparkle](https://i.pcbeta.com/space-uid-4597992.html)  &  GITHUB ：[viorel78](https://github.com/viorel78)  It's the same person
+
+He customized the sound card [Layout ID 18](https://github.com/acidanthera/AppleALC/pull/668)  with DeskMini H310  ALC235  
+
+Thank you for your customization ！
 
 ### Contact Us 
 

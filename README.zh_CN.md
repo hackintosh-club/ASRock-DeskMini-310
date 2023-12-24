@@ -35,6 +35,8 @@ Advanced
       |-- CPU C states Support: Enabled
       |-- CFG Lock: Disabled
   |-- Chipset Configuration
+      |-- Above 4G Decoding: Enabled
+      |-- VT-D: Enabled
       |-- Onboard HD Audio: Enabled
   |-- Super IO Configuration
       |-- Serial Port: Disabled
@@ -54,10 +56,20 @@ Boot
 
  - 安装完成后请使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成自己的三码
  - 请使用电源键进行睡眠唤醒
+ - 插入3.5mm耳机后不支持自动切换，请在声音设置中手动选择耳机设备
+ - 同时接入3.5mm耳机和独立麦克风会导致睡眠唤醒后爆音，请拔掉设备重新插入
 
 ### 系统截图
 
 ![image](ScreenShot/Sonoma.jpg)
+
+### 特别鸣谢
+
+远景论坛用户 ：[Coldsparkle](https://i.pcbeta.com/space-uid-4597992.html)  &  GITHUB用户 ：[viorel78](https://github.com/viorel78)    是同一个人
+
+Ta 为 DeskMini H310 的ALC235声卡定制了专用 [Layout ID 18](https://github.com/acidanthera/AppleALC/pull/668)
+
+在此对 Ta 表示感谢 ！
 
 ### 联系我们
 
