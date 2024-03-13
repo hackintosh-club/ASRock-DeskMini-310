@@ -6,12 +6,12 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
 - macOS Monterey 12.x 
-- macOS Ventura  13.x 
+- macOS Ventura    13.x 
 - macOS Sonoma  14.x 
 
 
@@ -70,6 +70,18 @@ Boot
 Ta 为 DeskMini H310 的ALC235声卡定制了专用 [Layout ID 18](https://github.com/acidanthera/AppleALC/pull/668)
 
 在此对 Ta 表示感谢 ！
+
+### 参考内容
+
+[1.黑苹果安装过程演示](https://hackintosh.club/d/10000060)
+
+[2.英特尔无线网卡WiFi驱动](https://hackintosh.club/d/10000015)
+
+[3.英特尔无线网卡蓝牙驱动](https://hackintosh.club/d/10000017)
+
+[4.我的B站黑苹果教程](https://space.bilibili.com/244390800/video)
+
+[6.黑果之家](https://hackintosh.club/)
 
 ### 联系我们
 
