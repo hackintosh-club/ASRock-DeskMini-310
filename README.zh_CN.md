@@ -6,13 +6,14 @@
 
 ### OpenCore
 
-[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
 - macOS Monterey 12.x 
 - macOS Ventura    13.x 
 - macOS Sonoma  14.x 
+- macOS Sequoia  15.x 
 
 
 ### 硬件
@@ -54,7 +55,7 @@ Boot
 
 ### 注意事项
 
- - 安装完成后请使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成自己的三码
+ - 安装完成后请使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成自己的三码
  - 请使用电源键进行睡眠唤醒
  - 插入3.5mm耳机后不支持自动切换，请在声音设置中手动选择耳机设备
  - 同时接入3.5mm耳机和独立麦克风会导致睡眠唤醒后爆音，请拔掉设备重新插入
